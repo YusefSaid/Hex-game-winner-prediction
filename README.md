@@ -1,4 +1,5 @@
 # IKT 457 Tsetlin machine based hex game winner prediction
+This project was conducted by a group of two, me and Herald Bo (@haraldbo). The project was graded A.
 
 ![alt text](./images/clause_analysis1.drawio.png)
 
